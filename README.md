@@ -1,6 +1,4 @@
-# More OOP
-
-Sample project for Lab More OOP at the Object-oriented programming course at Ukrainian Catholic University.
+# ВОЛОДАР ПЕРСНІВ
 
 ## Continuous Integration
 
@@ -13,6 +11,7 @@ This workflow performs the following steps:
 1. The "Build with Maven" step runs the Maven package target in non-interactive mode to ensure that your code builds, tests pass, and a package can be created.
 
 ## Task
+Вибираються 2 рандомні супротивники і гра триває допоки один з них не переможе. Інформація про стан гравців виводиться в консоль
 Implement the heroes game in text mode
 - class Character 
   - attributes: int power, in hp
