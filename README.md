@@ -11,7 +11,7 @@ This workflow performs the following steps:
 1. The "Build with Maven" step runs the Maven package target in non-interactive mode to ensure that your code builds, tests pass, and a package can be created.
 
 ## Task
-Вибираються 2 рандомні супротивники і гра триває допоки один з них не переможе. Інформація про стан гравців виводиться в консоль
+Вибираються 2 рандомні супротивники і гра триває допоки один з них не переможе. Інформація про стан гравців виводиться в консоль <\br>
 Implement the heroes game in text mode
 - class Character 
   - attributes: int power, in hp
