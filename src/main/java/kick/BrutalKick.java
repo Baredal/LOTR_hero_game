@@ -8,7 +8,7 @@ public class BrutalKick implements KickStrategy {
             whoIsKicked.setHp(0);
         }
         else {
-            whoIsKicked.setHp(whoIsKicked.getHp() - 1);
+            whoIsKicked.setPower(whoIsKicked.getPower() - 1);
         }
     }
 }

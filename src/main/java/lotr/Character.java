@@ -16,7 +16,7 @@ public abstract class Character {
     }
 
     public boolean isAlive() {
-        return hp > 0;
+        return getHp() > 0;
     }
 
     public void setHp(int hp) {
